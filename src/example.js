@@ -2,10 +2,10 @@
 
 var code = {};
 
-(function() {
+(function () {
 	"use strict";
 
-	code.foo = function() {
+	code.foo = function () {
 		return "foo";
 	};
 }());
